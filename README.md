@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-## 👩‍💻 About Me  <br>💻 Backend Developer | 🔒 Cybersecurity Enthusiast  <br>⚙️ Skilled in **Java**, **Spring Boot**, **PostgreSQL**  <br>🚀 Currently building a **Baby Care** app to track children's health  <br>🌱 Passionate about learning, secure systems, and innovative tech
+## 👩‍💻 About Me  <br>💻 Backend Developer | 🔒 Cybersecurity Enthusiast  <br>⚙️ Skilled in **Java**, **Spring Boot**, **PostgreSQL**    <br>🌱 Passionate about learning, secure systems, and innovative tech
 
 
 ## 🌐 Socials:
